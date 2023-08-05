@@ -518,7 +518,7 @@ footer a{
         background-image: url('robot3.png');
         background-repeat: no-repeat;
         line-height: 30px;
-        height: 50vh;
+        height: 60vh;
         background-size: 100%  100%;
         width: 100%;
     }
@@ -709,7 +709,7 @@ footer a{
     .chat-gpt{
         background-image: url('robot2.png');
         background-repeat: no-repeat;
-        height: 90vh;
+        height: 100vh;
         background-size: 100%  100%;
         width: 100%;
     }
@@ -969,7 +969,7 @@ footer a{
         background-image: url('robot3.png');
         background-repeat: no-repeat;
         line-height: 30px;
-        height: 50vh;
+        height: 60vh;
         background-size: 100%  100%;
         width: 100%;
     }
@@ -1161,7 +1161,7 @@ footer a{
     .chat-gpt{
         background-image: url('robot2.png');
         background-repeat: no-repeat;
-        height: 90vh;
+        height: 100vh;
         background-size: 100%  100%;
         width: 100%;
     }
@@ -1337,7 +1337,7 @@ footer a{
      .chat-gpt{
         background-image: url('robot2.png');
         background-repeat: no-repeat;
-        height: 87vh;
+        height: 97vh;
         background-size: 100%  100%;
         width: 100%;
     }
