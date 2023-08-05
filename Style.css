@@ -488,7 +488,7 @@ footer a{
     }
     nav h3{
         text-align: center;
-        font-size: 22px; 
+        font-size: 19px; 
         margin: 2%;
         color: navy;
     }
@@ -939,7 +939,7 @@ footer a{
     }
     nav h3{
         text-align: center;
-        font-size: 22px; 
+        font-size: 20px; 
         margin: 2%;
         color: navy;
     }
@@ -1420,7 +1420,7 @@ footer a{
     }
     nav h3{
         text-align: center;
-        font-size: 22px; 
+        font-size: 20px; 
         margin: 2%;
         color: navy;
     }
@@ -1450,7 +1450,7 @@ footer a{
         background-image: url('robot3.png');
         background-repeat: no-repeat;
         line-height: 30px;
-        height: 50vh;
+        height: 65vh;
         background-size: 100%  100%;
         width: 100%;
     }
@@ -1642,7 +1642,7 @@ footer a{
     .chat-gpt{
         background-image: url('robot2.png');
         background-repeat: no-repeat;
-        height: 70vh;
+        height: 80vh;
         background-size: 100%  100%;
         width: 100%;
     }
